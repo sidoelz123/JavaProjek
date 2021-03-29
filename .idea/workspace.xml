@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce935448-4b44-4b5f-b978-28cab63066a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qIWue0FgBbV5bwTN5Z1Ue67dtv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="Application.TransposeMatriks">
+    <configuration name="AksesElemenMatriks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matriks1.AksesElemenMatriks" />
+      <module name="Java Projek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Matriks1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Matriks.AksesElemenMatriks" />
+      <module name="Java Projek" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PenguranganMatriks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matriks2.PenguranganMatriks" />
+      <module name="Java Projek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Matriks2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerkalianMatriks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matriks3.PerkalianMatriks" />
+      <module name="Java Projek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Matriks3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransposeMatriks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Matriks4.TransposeMatriks" />
+      <module name="Java Projek" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Matriks4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.AksesElemenMatriks" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PenguranganMatriks" />
+      <item itemvalue="Application.PerkalianMatriks" />
+      <item itemvalue="Application.TransposeMatriks" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TransposeMatriks" />
+        <item itemvalue="Application.PerkalianMatriks" />
+        <item itemvalue="Application.PenguranganMatriks" />
+        <item itemvalue="Application.AksesElemenMatriks" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce935448-4b44-4b5f-b978-28cab63066a8" name="Default Changelist" comment="" />
+      <created>1616767812479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616767812479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="435" y="188" key="#Notifications" timestamp="1616980842301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="435" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1616980842301" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1617011240467">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1617011240467" />
+    <state x="559" y="262" key="Github.ShareDialog" timestamp="1617011034060">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="559" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1617011034060" />
+    <state width="1306" height="173" key="GridCell.Tab.0.bottom" timestamp="1616894525987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="173" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616894525987" />
+    <state width="1306" height="173" key="GridCell.Tab.0.center" timestamp="1616894525987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="173" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616894525987" />
+    <state width="1306" height="173" key="GridCell.Tab.0.left" timestamp="1616894525987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="173" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616894525987" />
+    <state width="1306" height="173" key="GridCell.Tab.0.right" timestamp="1616894525987">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="173" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616894525987" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1616824953968">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616824953968" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617011370405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617011370405" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617011401716">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1617011401716" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1616830857517">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1616830857517" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1617010838895">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617010838895" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Matriks3/PerkalianMatriks.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
