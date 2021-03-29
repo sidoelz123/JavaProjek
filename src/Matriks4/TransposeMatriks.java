@@ -1,42 +1,29 @@
 package Matriks4;
 
-import java.util.Scanner;
-
 public class TransposeMatriks {
     public static void main(String[] args) {
-        int i, j, m, n;
-        int matriks[][] = new int[10][10];
-        int transpose[][] = new int[10][10];
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Masukan jumlah baris matriks = ");
-        m = sc.nextInt();
-        System.out.print("Masukan jumlah kolom matriks = ");
-        n = sc.nextInt();
-        System.out.println("Masukan Elemen matriks = ");
+        int matriks[][] = {
+                {2,1,-5},
+                {3,4,2}
+        };
 
-        for(i = 0; i < m; i++){
-            for (j=0; j<n; j++){
-                matriks[i][j] = sc.nextInt();
-            }
-        }
+        int trans[][] = new int[3][2];
 
-        System.out.println("Hasil Matriks = ");
-        for (i=0; i<m; i++){
-            for (j=0; j<n; j++){
+        for(int i = 0; i < matriks.length; i++){
+            for(int j = 0; j < matriks[0].length; j++){
                 System.out.print(matriks[i][j] + "\t");
             }
-            System.out.println();
+            System.out.println("");
         }
-        for (i=0; i<m; i++){
-            for (j=0; j<n; j++){
-                transpose[j][i] = matriks[i][j];
+        System.out.println("Hasil Transpose");
+        for(int i = 0; i < matriks.length; i++){
+            for(int j = 0; j < matriks[0].length ; j++){
+                trans[j][i] = matriks[i][j];
             }
         }
-
-        System.out.println("Hasil Transpose = ");
-        for (i=0; i<n; i++){
-            for (j=0; j<m; j++){
-                System.out.print(transpose[i][j] + "\t");
+        for(int i = 0; i < matriks[0].length; i++){
+            for(int j = 0; j< matriks.length; j++){
+                System.out.print(trans[i][j] + "\t");
             }
             System.out.println();
         }
